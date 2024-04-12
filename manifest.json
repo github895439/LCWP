@@ -15,6 +15,14 @@
       "matches": [
         "https://dashboard.twitch.tv/u/cyacya_1451/stream-manager"
       ]
+    },
+    {
+      "js": [
+        "fumen_TetohuToText.js"
+      ],
+      "matches": [
+        "https://fumen.zui.jp/"
+      ]
     }
   ]
 }
